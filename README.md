@@ -1,2 +1,3 @@
 # Lab4
-partner's name: kara wolley
+Partner's Name: Kara Wolley
+Github User Name: KWolley
